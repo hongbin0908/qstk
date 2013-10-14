@@ -1,0 +1,125 @@
+Scratch Directory:  /tmp/QSScratch
+Data Directory:  /usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData
+599
+Unable to fetch data for stock: $DJI at http://ichart.finance.yahoo.com/table.csv?a=0&c=2000&b=1&e=11&d=9&f=2013&s=%5EDJI
+$DJI None done
+Unable to fetch data for stock: $SPX at http://ichart.finance.yahoo.com/table.csv?a=0&c=2000&b=1&e=11&d=9&f=2013&s=%5ESPX
+$SPX None done
+$VIX <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/$VIX.csv', mode 'w' at 0x37dcae0> done
+A <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/A.csv', mode 'w' at 0x37dcae0> done
+AA <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AA.csv', mode 'w' at 0x37dcae0> done
+AAPL <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AAPL.csv', mode 'w' at 0x37dcae0> done
+ABC <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ABC.csv', mode 'w' at 0x37dcae0> done
+ABI <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ABI.csv', mode 'w' at 0x37dcae0> done
+ABKFQ <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ABKFQ.csv', mode 'w' at 0x37dcae0> done
+ABT <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ABT.csv', mode 'w' at 0x37dcae0> done
+ACAS <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ACAS.csv', mode 'w' at 0x37dcae0> done
+ACE <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ACE.csv', mode 'w' at 0x37dcae0> done
+ACN <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ACN.csv', mode 'w' at 0x37dcae0> done
+Unable to fetch data for stock: ACS at http://ichart.finance.yahoo.com/table.csv?a=0&c=2000&b=1&e=11&d=9&f=2013&s=ACS
+ACS None done
+ADBE <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ADBE.csv', mode 'w' at 0x37dcae0> done
+ADI <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ADI.csv', mode 'w' at 0x37dcae0> done
+ADM <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ADM.csv', mode 'w' at 0x37dcae0> done
+ADP <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ADP.csv', mode 'w' at 0x37dcae0> done
+ADSK <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ADSK.csv', mode 'w' at 0x37dcae0> done
+AEE <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AEE.csv', mode 'w' at 0x37dcae0> done
+AEP <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AEP.csv', mode 'w' at 0x37dcae0> done
+AES <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AES.csv', mode 'w' at 0x37dcae0> done
+AET <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AET.csv', mode 'w' at 0x37dcae0> done
+AFL <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AFL.csv', mode 'w' at 0x37dcae0> done
+AGN <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AGN.csv', mode 'w' at 0x37dcae0> done
+AIG <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AIG.csv', mode 'w' at 0x37dcae0> done
+AIV <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AIV.csv', mode 'w' at 0x37dcae0> done
+AIZ <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AIZ.csv', mode 'w' at 0x37dcae0> done
+AKAM <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AKAM.csv', mode 'w' at 0x37dcae0> done
+ALL <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ALL.csv', mode 'w' at 0x37dcae0> done
+ALTR <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ALTR.csv', mode 'w' at 0x37dcae0> done
+ALXN <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ALXN.csv', mode 'w' at 0x37dcae0> done
+AMAT <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AMAT.csv', mode 'w' at 0x37dcae0> done
+AMD <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AMD.csv', mode 'w' at 0x37dcae0> done
+AMGN <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AMGN.csv', mode 'w' at 0x37dcae0> done
+AMP <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AMP.csv', mode 'w' at 0x37dcae0> done
+AMT <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AMT.csv', mode 'w' at 0x37dcae0> done
+AMZN <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AMZN.csv', mode 'w' at 0x37dcae0> done
+AN <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AN.csv', mode 'w' at 0x37dcae0> done
+ANF <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ANF.csv', mode 'w' at 0x37dcae0> done
+ANR <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ANR.csv', mode 'w' at 0x37dcae0> done
+AON <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AON.csv', mode 'w' at 0x37dcae0> done
+APA <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/APA.csv', mode 'w' at 0x37dcae0> done
+APC <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/APC.csv', mode 'w' at 0x37dcae0> done
+APD <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/APD.csv', mode 'w' at 0x37dcae0> done
+APH <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/APH.csv', mode 'w' at 0x37dcae0> done
+APOL <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/APOL.csv', mode 'w' at 0x37dcae0> done
+ARG <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ARG.csv', mode 'w' at 0x37dcae0> done
+ASH <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ASH.csv', mode 'w' at 0x37dcae0> done
+ATI <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/ATI.csv', mode 'w' at 0x37dcae0> done
+AVB <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AVB.csv', mode 'w' at 0x37dcae0> done
+AVP <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AVP.csv', mode 'w' at 0x37dcae0> done
+AVY <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AVY.csv', mode 'w' at 0x37dcae0> done
+AXP <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AXP.csv', mode 'w' at 0x37dcae0> done
+Unable to fetch data for stock: AYE at http://ichart.finance.yahoo.com/table.csv?a=0&c=2000&b=1&e=11&d=9&f=2013&s=AYE
+AYE None done
+AZO <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/AZO.csv', mode 'w' at 0x37dcae0> done
+BA <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BA.csv', mode 'w' at 0x37dcae0> done
+BAC <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BAC.csv', mode 'w' at 0x37dcae0> done
+BAX <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BAX.csv', mode 'w' at 0x37dcae0> done
+BBBY <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BBBY.csv', mode 'w' at 0x37dcae0> done
+BBT <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BBT.csv', mode 'w' at 0x37dcae0> done
+BBY <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BBY.csv', mode 'w' at 0x37dcae0> done
+BC <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BC.csv', mode 'w' at 0x37dcae0> done
+BCR <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BCR.csv', mode 'w' at 0x37dcae0> done
+Unable to fetch data for stock: BDK at http://ichart.finance.yahoo.com/table.csv?a=0&c=2000&b=1&e=11&d=9&f=2013&s=BDK
+BDK None done
+BDX <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BDX.csv', mode 'w' at 0x37dcae0> done
+BEAM <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BEAM.csv', mode 'w' at 0x37dcae0> done
+BEN <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BEN.csv', mode 'w' at 0x37dcae0> done
+BF.B <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BF.B.csv', mode 'w' at 0x37dcae0> done
+BHI <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BHI.csv', mode 'w' at 0x37dcae0> done
+BIG <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BIG.csv', mode 'w' at 0x37dcae0> done
+BIIB <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BIIB.csv', mode 'w' at 0x37dcae0> done
+Unable to fetch data for stock: BJS at http://ichart.finance.yahoo.com/table.csv?a=0&c=2000&b=1&e=11&d=9&f=2013&s=BJS
+BJS None done
+BK <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BK.csv', mode 'w' at 0x37dcae0> done
+BLK <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BLK.csv', mode 'w' at 0x37dcae0> done
+BLL <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BLL.csv', mode 'w' at 0x37dcae0> done
+BMC <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BMC.csv', mode 'w' at 0x37dcae0> done
+BMS <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BMS.csv', mode 'w' at 0x37dcae0> done
+BMY <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BMY.csv', mode 'w' at 0x37dcae0> done
+BRCM <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BRCM.csv', mode 'w' at 0x37dcae0> done
+BRK.B <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BRK.B.csv', mode 'w' at 0x37dcae0> done
+BRLI <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BRLI.csv', mode 'w' at 0x37dcae0> done
+Unable to fetch data for stock: BSC at http://ichart.finance.yahoo.com/table.csv?a=0&c=2000&b=1&e=11&d=9&f=2013&s=BSC
+BSC None done
+BSX <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BSX.csv', mode 'w' at 0x37dcae0> done
+BTU <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BTU.csv', mode 'w' at 0x37dcae0> done
+BUD <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BUD.csv', mode 'w' at 0x37dcae0> done
+BWA <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BWA.csv', mode 'w' at 0x37dcae0> done
+BXP <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/BXP.csv', mode 'w' at 0x37dcae0> done
+C <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/C.csv', mode 'w' at 0x37dcae0> done
+CA <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CA.csv', mode 'w' at 0x37dcae0> done
+CAG <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CAG.csv', mode 'w' at 0x37dcae0> done
+CAH <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CAH.csv', mode 'w' at 0x37dcae0> done
+CAM <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CAM.csv', mode 'w' at 0x37dcae0> done
+CAT <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CAT.csv', mode 'w' at 0x37dcae0> done
+CB <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CB.csv', mode 'w' at 0x37dcae0> done
+CBE <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CBE.csv', mode 'w' at 0x37dcae0> done
+CBG <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CBG.csv', mode 'w' at 0x37dcae0> done
+CBS <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CBS.csv', mode 'w' at 0x37dcae0> done
+CBSH <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CBSH.csv', mode 'w' at 0x37dcae0> done
+CCE <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CCE.csv', mode 'w' at 0x37dcae0> done
+CCI <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CCI.csv', mode 'w' at 0x37dcae0> done
+CCL <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CCL.csv', mode 'w' at 0x37dcae0> done
+CCMO <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CCMO.csv', mode 'w' at 0x37dcae0> done
+Unable to fetch data for stock: CCT at http://ichart.finance.yahoo.com/table.csv?a=0&c=2000&b=1&e=11&d=9&f=2013&s=CCT
+CCT None done
+Unable to fetch data for stock: CEG at http://ichart.finance.yahoo.com/table.csv?a=0&c=2000&b=1&e=11&d=9&f=2013&s=CEG
+CEG None done
+CELG <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CELG.csv', mode 'w' at 0x37dcae0> done
+CERN <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CERN.csv', mode 'w' at 0x37dcae0> done
+CF <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CF.csv', mode 'w' at 0x37dcae0> done
+Unable to fetch data for stock: CFC+A at http://ichart.finance.yahoo.com/table.csv?a=0&c=2000&b=1&e=11&d=9&f=2013&s=CFC%2BA
+CFC+A None done
+CFN <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CFN.csv', mode 'w' at 0x37dcae0> done
+CHK <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CHK.csv', mode 'w' at 0x37dcae0> done
+CHRW <closed file '/usr/local/lib/python2.7/dist-packages/QSTK-0.2.6-py2.7.egg/QSTK/qstkutil/../QSData/Yahoo/CHRW.csv', mode 'w' at 
